@@ -46,4 +46,4 @@ A home made tools which enables me clean up a particular directory using just a 
 
 ## Still under construction
 
-<img src="https://raw.githubusercontent.com/Benrobo/cleanup/master/screenshot/cont.png">
+<img src="https://raw.githubusercontent.com/Benrobo/cleanup/master/screenshot/cont.png" width="150">
