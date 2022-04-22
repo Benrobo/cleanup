@@ -3,7 +3,7 @@ A home made tools which enables me clean up a particular directory using just a 
 
 ## From This
 
-<img src="https://raw.githubusercontent.com/Benrobo/cleanup/master/screenshot/clean1.PNG">
+<img src="https://raw.githubusercontent.com/Benrobo/cleanup/master/screenshot/cleanup1.PNG">
 
 ## To This
 
