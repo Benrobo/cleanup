@@ -19,6 +19,12 @@ A home made tools which enables me clean up a particular directory using just a 
     ```bash 
         git clone https://github.com/benrobo/cleanup
     ```
+- [x] Install all packages found in `requirements.txt`
+
+```py
+    python -m pip install -U -r requirements.txt
+```
+
 - [x] Start the `main.py` file within the downloaded repo using some of the commands below
 
 ```py
