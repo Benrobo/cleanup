@@ -45,6 +45,3 @@ A home made tools which enables me clean up a particular directory using just a 
 
     py main.py -p | --path (/users/{username}/documents/test) --move
 ```
-
-
-## Still under construction
