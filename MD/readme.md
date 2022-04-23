@@ -37,14 +37,13 @@ A home made tools which enables me clean up a particular directory using just a 
 
     py main.py -rcd | --run-cd
     
-    # cleanup this specified path (copy all files: default)
+    # cleanup this specified path
 
-    py main.py -p | --path (/users/{username}/documents/test)
+    py main.py -p | --path (/users/benrobo/documents/test)
 
-    # cleanup this specified path (move all files)
-
-    py main.py -p | --path (/users/{username}/documents/test) --move
 ```
 
 
 ## Still under construction
+
+<img src="https://raw.githubusercontent.com/Benrobo/cleanup/master/screenshot/cont.png" width="150">
