@@ -1,11 +1,10 @@
-# !/usr/
+# !/usr/bin/env python
 
 import sys
 import os
 import platform
 import pathlib
 import shutil
-import getpass
 from halo import Halo
 from colorama import init
 from termcolor import colored
@@ -15,9 +14,6 @@ init()
 
     
 currDir = os.getcwd()
-user = getpass.getuser()
-
-
 
 info = """
     Cleanup
